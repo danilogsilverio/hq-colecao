@@ -1,0 +1,24 @@
+# Ignorar node_modules em backend e frontend
+**/node_modules/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos do banco local (se quiser evitar subir)
+hq-backend/hqcolecao.db
+
+# Ignorar diretórios de build (se usar)
+hq-frontend/dist
+hq-frontend/dist-ssr
+
+# Ignorar arquivos de IDE e SO
+.vscode/
+.idea/
+.DS_Store
+
+# Outros arquivos temporários
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

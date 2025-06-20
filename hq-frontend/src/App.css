@@ -1,0 +1,19 @@
+.container {
+    padding: 2rem;
+  }
+  
+  .inputBusca {
+    padding: 0.5rem;
+    width: 300px;
+    margin-right: 0.5rem;
+  }
+  
+  .resultado {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1rem;
+  }
+  
+  .capa {
+    max-width: 150px;
+  }
